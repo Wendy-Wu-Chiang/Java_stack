@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+a {
+	color:gray;
+	padding: 300px;
+	
+}
+#date{
+	margin-left: 500px;
+	color: blue;
+}
+
+.showDate a {
+	margin-left: 630px;
+}
+#time{
+	margin-left: 600px;
+	font-size:xx-large;
+	color: green;
+}
+
+.showTime a {
+	margin-left: 630px;
+}

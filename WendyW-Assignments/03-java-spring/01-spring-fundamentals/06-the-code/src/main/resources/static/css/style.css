@@ -1,0 +1,40 @@
+@charset "UTF-8";
+h1 {
+	text-align:center;
+	font-size: xx-larger;
+}
+
+input {
+	margin-left:800px;
+	height:30px;
+	width: 200px;
+	text-align:center;
+}
+button {
+	margin-left:870px;
+	margin-top:20px;
+	background-color:black;
+	color:white;
+	border-radius:5px;
+}
+
+ul {
+	margin:20px 0 0 630px;
+	font-size:20px;
+	
+}
+h4 {
+	text-align:center;
+	margin-top:200px;
+	color:red;
+	
+}
+.code h1{
+	margin-left:575px;
+	display:inline-block;
+	font-weight:light;
+}
+.code a {
+	margin-left:500px;
+	display: inline-block;
+}
